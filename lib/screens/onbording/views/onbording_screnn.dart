@@ -2,7 +2,6 @@ import 'package:e_commerce_app_flutter/route/route_constants.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
-
 import '../../../components/dot_indicators.dart';
 import '../../../constants.dart';
 import 'components/onbording_content.dart';
@@ -50,7 +49,7 @@ class _OnBordingScreenState extends State<OnBordingScreen> {
       imageDarkTheme: "assets/Illustration/Illustration_darkTheme_4.png",
       title: "Nearby stores",
       description:
-          "Easily track nearby shops, browse through their items and get information about their prodcuts.",
+          "Easily track nearby shops, browse through their items and get information about their products.",
     ),
   ];
 

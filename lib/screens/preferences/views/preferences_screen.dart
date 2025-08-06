@@ -32,7 +32,7 @@ class PreferencesScreen extends StatelessWidget {
             PreferencesListTile(
               titleText: "Personalization",
               subtitleTxt:
-                  "Personalisation cookies collect information about your use of this app in order to display contect and experience that are relevant to you.",
+                  "Personalisation cookies collect information about your use of this app in order to display contact and experience that are relevant to you.",
               isActive: false,
               press: () {},
             ),
@@ -40,7 +40,7 @@ class PreferencesScreen extends StatelessWidget {
             PreferencesListTile(
               titleText: "Marketing",
               subtitleTxt:
-                  "Maarketing cookies collec information about your use of this and other apps to enable display ads and other marketing that is more relevant to you.",
+                  "Marketing cookies collect information about your use of this and other apps to enable display ads and other marketing that is more relevant to you.",
               isActive: false,
               press: () {},
             ),
